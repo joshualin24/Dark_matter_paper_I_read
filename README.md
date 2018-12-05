@@ -1,8 +1,14 @@
 # Dark_matter_paper_I_read
 
-Inspired by Hang Yu, I created a list of paper I read (dark matter research related) here as a reminder to myself. Hope this would be helpful if you are interested in dark matter as well.
+Inspired by Hang Yu, I created a list of papers I read (dark matter research related) here as a reminder to myself. Hope this would be helpful if you are interested in dark matter as well.
 
 
 
-## July-December 2018
+## Power Spectrum with Strong Lensing
 [Quantifying the power spectrum of small-scale structure in semi-analytic galaxies](https://arxiv.org/abs/1808.03501)
+
+
+[Probing the small-scale structure in strongly lensed systems via transdimensional inference](https://arxiv.org/abs/1706.06111)
+
+[Measuring the power spectrum of dark matter substructure using strong gravitational lensing](https://arxiv.org/abs/1403.2720)
+

@@ -14,7 +14,9 @@ Inspired by Hang Yu, I created a list of papers I read (dark matter research rel
 
 [Measuring the power spectrum of dark matter substructure using strong gravitational lensing](https://arxiv.org/abs/1403.2720)
 
+[On the Power Spectrum of Dark Matter Substructure in Strong Gravitational Lenses](https://arxiv.org/abs/1707.04590)
 
+[Gravitational lensing and the power spectrum of dark matter substructure: Insights from the ETHOS N-body simulations](https://arxiv.org/abs/1809.00004)
 
 
 

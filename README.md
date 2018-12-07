@@ -18,5 +18,5 @@ Inspired by Hang Yu, I created a list of papers I read (dark matter research rel
 
 [Gravitational lensing and the power spectrum of dark matter substructure: Insights from the ETHOS N-body simulations](https://arxiv.org/abs/1809.00004)
 
-
+[A Dark Census: Statistically Detecting the Satellite Populations of Distant Galaxies](https://arxiv.org/abs/1506.01724)
 
